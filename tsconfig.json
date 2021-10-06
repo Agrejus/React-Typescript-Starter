@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist",
+    "sourceMap": true,
+    "noImplicitAny": true,
+    "module": "commonjs",
+    "target": "es6",
+    "jsx": "react",
+    "strict": true,
+  },
+  "include": [
+    "./src/*", "./src/index.tsx"
+  ]
+}
+//https://www.logicbig.com/tutorials/misc/typescript/ts-config-json.html
